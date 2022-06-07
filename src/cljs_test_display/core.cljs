@@ -22,7 +22,7 @@
 
 ;; root-node-id specifies the id of the dom element to mount the
 ;; testing application to
-(goog-define root-node-id "app")
+(def root-node-id "app")
 
 ;; change-favicon specifies wether to change the favicon to red or
 ;; green when tests complete
